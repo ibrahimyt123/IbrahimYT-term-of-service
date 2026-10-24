@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  IbrahimYT - Terms of Service
+  IbrahimYT bot - Terms of Service
 </head>
 <body>
   <h1>IbrahimYT - Terms of Service</h1>
